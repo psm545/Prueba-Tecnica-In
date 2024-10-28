@@ -1,3 +1,4 @@
+![PORTADA](https://github.com/psm545/Prueba-Tecnica-In/blob/main/Img/2495BFC3-E1C2-4170-B7BA-945E5440EAB7%20(2).jpg)
 # Prueba Tecnica Data Analyst 
 
 ## **¡Bienvenido/a!** 
@@ -9,10 +10,10 @@ Para esta prueba técnica, queremos evaluar tus habilidades en SQL, Python (Pand
 Nuestra empresa **BCA Operations** opera en el sector de gambling y apuestas deportivas. Queremos analizar los datos de nuestros jugadores para entender mejor el comportamiento de los usuarios que han realizado su primer depósito (FTD) y aquellos que cumplen la condición de CPA. La condición para que un jugador sea considerado CPA es que su primer depósito sea mayor a un valor específico (ej. 100 USD). No todos los jugadores que hacen un primer depósito cumplen con esta condición, y algunos no han realizado depósitos.
 
 ### **Archivos Suministrados**
-  - **players.csv:** Contiene información de los jugadores como ID, nombre, país y fecha de registro.
-  - **deposits.csv:** Detalles de los depósitos de los jugadores, incluyendo el monto del depósito y la fecha.
-  - **traffic_sources.csv:** Datos de adquisición de jugadores, incluyendo el costo de adquisición por jugador, el nombre del trafficker, y la fecha de registro.
-  - **internal_records.csv:** Base de datos interna con registros mensuales de la cantidad de FTD y CPA que tiene la empresa para validación.
+  - **players.csv:** Contiene información de los jugadores como ID, nombre, país y fecha de registro. [Descargar archivo](https://github.com/psm545/Prueba-Tecnica-In/blob/main/csv/account_daily_report_1.csv)
+  - **deposits.csv:** Detalles de los depósitos de los jugadores, incluyendo el monto del depósito y la fecha.  [Descargar archivo](https://github.com/psm545/Prueba-Tecnica-In/blob/main/csv/account_daily_report_2.csv)
+  - **traffic_sources.csv:** Datos de adquisición de jugadores, incluyendo el costo de adquisición por jugador, el nombre del trafficker, y la fecha de registro. [Descargar archivo](https://github.com/psm545/Prueba-Tecnica-In/blob/main/csv/account_daily_report_3.csv)
+  - **internal_records.csv:** Base de datos interna con registros mensuales de la cantidad de FTD y CPA que tiene la empresa para validación. [Descargar archivo](https://github.com/psm545/Prueba-Tecnica-In/blob/main/csv/account_report.csv)
 
 ## **Objetivos de la Prueba**
 
